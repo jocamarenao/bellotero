@@ -1,0 +1,20 @@
+.ant-carousel .slick-slide {
+	text-align: center;
+	background: #c1a46e;
+	overflow: hidden;
+	height: 45px;
+}
+
+.ant-carousel .slick-slide h3 {
+	color: #fff;
+}
+
+.carousel-styles {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.paragraph-styles {
+	padding-left: 5%;
+	padding-right: 5%;
+}
